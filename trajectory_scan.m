@@ -55,8 +55,8 @@ y_traj = [];
 theta1_vals = [];
 theta2_vals = [];
 
-for t1 = 0:2:90
-    for t2 = 0:2:90
+for t1 = 0:1:90
+    for t2 = 0:1:180
         theta_1 = t1; 
         theta_2 = t2; 
 
